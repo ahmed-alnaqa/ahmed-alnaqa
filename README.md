@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ahmed  
+## Ahmed Alnaqa
 
 🚀 **Engineering Manager | Technical Leader | Software Architect**  
 
