@@ -8,18 +8,21 @@ I’m a Computer Science graduate and seasoned Engineering Manager with expertis
 
 ## 🛠️ Tech Stack  
 - **Languages & Frameworks**: Node.js, PHP, GraphQL, REST APIs  
-- **Databases**: SQL, MySQL, MongoDB, Firestore  
-- **Cloud & DevOps**: Docker, Kubernetes, CI/CD, Load Balancing, API Gateways  
+- **Databases**: SQL, MySQL, PostgrsSQL, MongoDB, Firestore  
+- **Cloud & DevOps**: Docker, Kubernetes, CI/CD, Load Balancing, API Gateways, AWS, GCP, Digital Ocean 
 - **Architecture**: Distributed Systems, Microservices, Scalable Web Apps  
 
 ---
 
 ## 🌍 Business Domains  
-- 🛡️ **Insurance Technology (InsurTech)** – digital claims, customer portals, automation  
+- 💳 **FinTech Solutions** – payment integrations, digital wallets, transaction security
 - 🛒 **E-commerce & Retail** – microservices, personalization, campaign management  
+- 🛡️ **Insurance Technology (InsurTech)** – digital claims, customer portals, automation
+- 🏢 **Real Estate Platforms** – property listing systems, search & recommendation features
 - 🎟️ **Events & Ticketing** – scalable portals and real-time systems  
 - 🎁 **Customer Engagement & Marketing Tools** – content management, dynamic campaign control
-- 🏘️ **Real Estate** 
+
+
 
 ---
 
