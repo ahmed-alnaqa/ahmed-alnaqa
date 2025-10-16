@@ -7,7 +7,7 @@ I’m a Computer Science graduate and seasoned Engineering Manager with expertis
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages & Frameworks**: Node.js, PHP, GraphQL, REST APIs  
+- **Languages & Frameworks**: Node.js, PHP, Python,GraphQL, REST APIs  
 - **Databases**: SQL, MySQL, PostgrsSQL, MongoDB, Firestore  
 - **Cloud & DevOps**: Docker, Kubernetes, CI/CD, Load Balancing, API Gateways, AWS, GCP, Digital Ocean 
 - **Architecture**: Distributed Systems, Microservices, Scalable Web Apps  
